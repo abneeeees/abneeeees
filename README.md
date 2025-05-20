@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on webscrapping project<br>👯 I’m looking to collaborate on any project for hackathon<br>🌱 I’m currently learning machine learning and stuff yk<br>💬 Ask me about ART!!! anything about ART!!!<br>⚡ Fun fact : LinkedIn is the worst possible platform ever 
+🔭 I’m currently working on a FastApi project<br>👯 I’m looking to collaborate on any project for hackathons<br>🌱 I’m currently learning machine learning and stuff yk<br>💬 Ask me about ART!!! anything about ART!!!<br>⚡ Fun fact : LinkedIn is the worst possible platform ever 
 
 
 ## 🌐 Socials:
