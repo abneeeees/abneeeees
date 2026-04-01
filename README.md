@@ -9,10 +9,6 @@
 - I’m currently learning: **Socket Programming in C and Cyber-Security**
 - All of my projects are available [here](https://github.com/abneeeees?tab=repositories)
 - All of my artworks are available [here](https://instagram.com/abneeeees)
-- How to reach me:
-    - **abneeeees@proton.me**
-    - [Twitter](https://x.com/abneeeees)
-    - [Instagram](https://instagram.com/abneeeees)
-    - [Linkedin](https://linkedin.com/in/abneeeees)
+- Site: [Tap Here](https://abneeeees.github.io/)
 
 <h4 align="center">Buy me a coffee via abneeeees@upi</h4>
