@@ -3,10 +3,7 @@
 
 ---
 ### About me:
-- I’m currently working on:
-    - [Magnetio](https://github.com/abneeeees/Magnetio). A play,Download,Search medium for magnet links
-    - [ablist](https://github.com/abneeeees/ablist). A bruteforcing-tool to generate custom wordlist out of given set of words
-- I’m currently learning: **Socket Programming in C and Cyber-Security**
+- I’m currently learning: **Development, this and that**
 - All of my projects are available [here](https://github.com/abneeeees?tab=repositories)
 - All of my artworks are available [here](https://instagram.com/abneeeees)
 - Site: [Tap Here](https://abneeeees.github.io/)
