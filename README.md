@@ -5,7 +5,7 @@
 ### About me:
 - I’m currently learning: **Development, this and that**
 - All of my projects are available [here](https://github.com/abneeeees?tab=repositories)
-- All of my artworks are available [here](https://instagram.com/abneeeees)
+- All of my artworks are available [here](https://abneeeees.vercel.app)
 - Site: [Tap Here](https://abneeeees.github.io/)
 
 <h4 align="center">Buy me a coffee via abneeeees@upi</h4>
